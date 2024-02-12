@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: darkslategray;
+    align-items: center;
+    justify-content: center;
+}
+
+body p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color:white;
+}
